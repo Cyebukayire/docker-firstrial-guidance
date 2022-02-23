@@ -6,7 +6,7 @@
 1. First, clone a repository
 The Getting Started project is a simple GitHub repository which contains everything you need to build an image and run it as a container.
 
-`>docker run --name firstrial alpine/git clone https://github.com/docker/getting-started.git`
+`docker run --name firstrial alpine/git clone https://github.com/docker/getting-started.git`
 
 
 2. Now, build the image
