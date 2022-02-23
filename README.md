@@ -1,7 +1,7 @@
 # docker-firstrial-guidance
 
 
-## Cloning and Running an existing project in a container
+## Build an image of an existing project, run it as a container, and share your image on Docker Hub
 
 1. First, clone a repository
 The Getting Started project is a simple GitHub repository which contains everything you need to build an image and run it as a container.
